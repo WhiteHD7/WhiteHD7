@@ -1,16 +1,30 @@
-## Hi there 👋
+# Olá, eu sou João Pedro Marques 👋
 
-<!--
-**WhiteHD7/WhiteHD7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor Full Stack em formação  
+🚀 Criando projetos web modernos e responsivos  
+📚 Estudando JavaScript, React, Node.js e banco de dados  
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML
+- CSS
+- JavaScript
+- React
+- Node.js
+- Git e GitHub
+
+## 🚀 Projetos em destaque
+
+### 🍰 Delícias da Cris
+
+Site responsivo desenvolvido para uma confeitaria artesanal.
+
+- Catálogo de produtos
+- Integração com WhatsApp
+- Design responsivo
+- Publicação na Vercel
+
+## 📫 Contato
+
+- LinkedIn: coloque-seu-link
+- Portfólio: coloque-seu-link
