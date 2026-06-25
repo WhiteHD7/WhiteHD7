@@ -26,5 +26,5 @@ Site responsivo desenvolvido para uma confeitaria artesanal.
 
 ## 📫 Contato
 
-- LinkedIn: coloque-seu-link
-- Portfólio: coloque-seu-link
+- LinkedIn: 
+- Portfólio: 
